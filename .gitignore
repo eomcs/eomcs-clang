@@ -5,6 +5,12 @@
 # Prerequisites
 *.d
 
+# 중간 파일
+*.bc
+*.i
+*.ll
+*.s
+
 # Object files
 *.o
 *.ko
